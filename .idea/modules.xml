@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/prakricOne.iml" filepath="$PROJECT_DIR$/.idea/modules/prakricOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/prakricOne_main.iml" filepath="$PROJECT_DIR$/.idea/modules/prakricOne_main.iml" group="prakricOne" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/prakricOne_test.iml" filepath="$PROJECT_DIR$/.idea/modules/prakricOne_test.iml" group="prakricOne" />
+    </modules>
+  </component>
+</project>

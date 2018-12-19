@@ -1,0 +1,75 @@
+<component name="libraryTable">
+  <library name="spring-expression-4.1.9.RELEASE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/мУчеба" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Индустриальные средства разработки ПО/Лабораторная 1/src" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Индустриальные средства разработки ПО/Лабораторная 2/apache-tomcat-8.0.52/webapps/docs/appdev/sample/src" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Индустриальные средства разработки ПО/Лабораторная 2/apache-tomcat-8.0.52/webapps/examples/WEB-INF/classes" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Индустриальные средства разработки ПО/Лабораторная 2/apache-tomcat-8.0.52/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Индустриальные средства разработки ПО/Лабораторная 2/apache-tomcat-8.0.52/webapps/examples/jsp/plugin/applet" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Индустриальные средства разработки ПО/Лабораторная 2/apache-tomcat-8.0.52/work/Catalina/localhost/2-1.0-SNAPSHOT" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Индустриальные средства разработки ПО/Лабораторная 2/apache-tomcat-8.0.52/work/Catalina/localhost/ISR1-1.0" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Индустриальные средства разработки ПО/Лабораторная 2/apache-tomcat-8.0.52/work/Catalina/localhost/ROOT" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Индустриальные средства разработки ПО/Лабораторная 2/apache-tomcat-8.0.52/work/Catalina/localhost/m2s_isr_lab2-1.0-SNAPSHOT" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Индустриальные средства разработки ПО/Лабораторная 2/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Параллельное программирование/6/src" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Параллельное программирование/ISR1/src" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Параллельное программирование/MB/second/apache-tomcat-8.0.52/webapps/docs/appdev/sample/src" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Параллельное программирование/MB/second/apache-tomcat-8.0.52/webapps/examples/WEB-INF/classes" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Параллельное программирование/MB/second/apache-tomcat-8.0.52/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Параллельное программирование/MB/second/apache-tomcat-8.0.52/webapps/examples/jsp/plugin/applet" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Параллельное программирование/MB/second/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Параллельное программирование/MB/src" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Параллельное программирование/Mappedbus-master/src/main" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Параллельное программирование/Mappedbus-master/src/perf" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Параллельное программирование/Mappedbus-master/src/sample" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Параллельное программирование/Mappedbus-master/test" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Параллельное программирование/Mappedbus/src" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Параллельное программирование/chatTCP/src" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Параллельное программирование/chat/src" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Параллельное программирование/second/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Разработка мобильных приложений/pedometr-20180617T180608Z-001/pedometr/app/build/generated/source/buildConfig/debug" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Разработка мобильных приложений/pedometr-20180617T180608Z-001/pedometr/app/build/generated/source/r/debug" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Разработка мобильных приложений/pedometr-20180617T180608Z-001/pedometr/app/src/androidTest/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Разработка мобильных приложений/pedometr-20180617T180608Z-001/pedometr/app/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/2 семестр/Разработка мобильных приложений/pedometr-20180617T180608Z-001/pedometr/app/src/test/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/ActiveMQTest/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/amqp/java/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/mqtt/java/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/advanced-scenarios/jms-example-composite-destinations/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/advanced-scenarios/jms-example-durable-sub/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/advanced-scenarios/jms-example-exclusive-consumer/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/advanced-scenarios/jms-example-message-browser/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/advanced-scenarios/jms-example-queue-selector/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/advanced-scenarios/jms-example-queue/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/advanced-scenarios/jms-example-temp-destinations/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/advanced-scenarios/jms-example-topic/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/advanced-scenarios/jms-example-transaction/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/advanced-scenarios/jms-example-wildcard-consumer/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/ecommerce/src" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/exploring-jms/QueuePTPSamples/QueueMonitor" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/exploring-jms/QueuePTPSamples/QueueRoundTrip" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/exploring-jms/QueuePTPSamples/RequestReply" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/exploring-jms/QueuePTPSamples/SelectorTalk" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/exploring-jms/QueuePTPSamples/Talk" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/exploring-jms/QueuePTPSamples/TransactedTalk" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/exploring-jms/TopicPubSubSamples/Chat" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/exploring-jms/TopicPubSubSamples/DurableChat" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/exploring-jms/TopicPubSubSamples/HierarchicalChat" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/exploring-jms/TopicPubSubSamples/MessageMonitor" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/exploring-jms/TopicPubSubSamples/RequestReply" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/exploring-jms/TopicPubSubSamples/SelectorChat" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/exploring-jms/TopicPubSubSamples/TransactedChat" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/java/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/openwire/swissarmy/src" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/apache-activemq-5.15.5-bin/apache-activemq-5.15.5/examples/stomp/java/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/prakricOne/prakricOne/prakricOne/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/spring-JPA/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3 семестр/Индустриальные и интеграция/spring-sec/spring-sec/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/prakticTwo/prakticTwo/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

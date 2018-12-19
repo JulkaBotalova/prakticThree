@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="jar_files">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/мУчеба/3семестр/Индустриальные и интеграция/jar_files/aopalliance-1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/мУчеба/3семестр/Индустриальные и интеграция/jar_files/commons-logging-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/мУчеба/3семестр/Индустриальные и интеграция/jar_files/spring-aop-4.1.9.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/мУчеба/3семестр/Индустриальные и интеграция/jar_files/spring-beans-4.1.9.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/мУчеба/3семестр/Индустриальные и интеграция/jar_files/spring-boot-1.2.8.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/мУчеба/3семестр/Индустриальные и интеграция/jar_files/spring-core-4.1.9.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/мУчеба/3семестр/Индустриальные и интеграция/jar_files/spring-context-4.1.9.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/мУчеба/3семестр/Индустриальные и интеграция/jar_files/spring-expression-4.1.9.RELEASE.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/мУчеба/3семестр/Индустриальные и интеграция/jar_files" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Desktop/мУчеба/3семестр/Индустриальные и интеграция/jar_files" recursive="false" />
+  </library>
+</component>
