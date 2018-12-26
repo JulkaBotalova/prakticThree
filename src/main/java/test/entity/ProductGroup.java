@@ -1,7 +1,6 @@
 package test.entity;
 
 import javax.persistence.*;
-import java.util.Set;
 
 import static javax.persistence.GenerationType.IDENTITY;
 
@@ -15,14 +14,15 @@ public class ProductGroup {
     @GeneratedValue(strategy = IDENTITY)
     private Integer id;
 
+
     @Column(name = "PRODUCTGROUP_NAME", length = 255)
     private String productGroupName;
 
     @Column(name = "REMARK", length = 255)
     private String remark;
 
-    @OneToMany(mappedBy = "productGroup", cascade = CascadeType.ALL)
-    private Set<Product> products;
+    /*@OneToMany(mappedBy = "productGroup", cascade = CascadeType.ALL)
+    private Set<Product> products;*/
 
     public Integer getId() {
         return id;
@@ -48,11 +48,11 @@ public class ProductGroup {
         this.remark = remark;
     }
 
-    public Set<Product> getProducts() {
+   /* public Set<Product> getProducts() {
         return products;
     }
 
     public void setProducts(Set<Product> products) {
         this.products = products;
-    }
+    }*/
 }

@@ -10,7 +10,7 @@ import javax.transaction.Transactional;
 import java.util.List;
 import java.util.Optional;
 
-public interface OrderRepository extends PagingAndSortingRepository<Order, Integer>{
+public interface OrderRepository extends PagingAndSortingRepository<Order, Integer> {
     Optional<Order> findById(Long id);
     List<Order> findAll();
     @Query("SELECT COUNT(entity)>0 FROM Order entity WHERE entity.id = :#{#_entity.id}")

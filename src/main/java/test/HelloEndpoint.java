@@ -65,13 +65,13 @@ public class HelloEndpoint {
             order1.setPhone("8- " + String.valueOf(random.nextInt()));
             order1.setRemark("Remark " + i.toString());
 
-            user.setOrderUs(order);
-            isuePoint.setOrder(order);
+           /* user.setOrderUs(order);
+            isuePoint.setOrder(order);*/
             orderRepository.save(order1);
 
             Set<Product> products = new HashSet<Product>();
-            productGroup.setProducts(products);
-
+            /*productGroup.setProducts(products);
+*/
 
             product.setProductGroup(productGroup);
             product.setProductName(String.valueOf(random.nextInt()));
@@ -82,8 +82,8 @@ public class HelloEndpoint {
             if (i == 5) {
                 for(int j=0;j<=5; j++){
                     OrderPos orderPos = new OrderPos();
-                    order1.setOrderPoses(new HashSet<OrderPos>());
-                    product.setOrderPoss(new HashSet<OrderPos>());
+                   /*/* order1.setOrderPoses(new HashSet<OrderPos>());
+                    product.setOrderPoss(new HashSet<OrderPos>());*/
 
 
                     orderPos.setPrice(random.nextInt());

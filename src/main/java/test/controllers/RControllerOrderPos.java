@@ -63,8 +63,8 @@ public class RControllerOrderPos {
         Order order = maybeOrder
                 .orElseThrow(() -> new ExpressionException(String.valueOf(idOrder)));
 
-        product.setOrderPoss(new HashSet<OrderPos>());
-        order.setOrderPoses(new HashSet<OrderPos>());
+       /* product.setOrderPoss(new HashSet<OrderPos>());
+        order.setOrderPoses(new HashSet<OrderPos>());*/
 
         orderPos.setProduct(product);
         orderPos.setOrder(order);
@@ -73,8 +73,8 @@ public class RControllerOrderPos {
         orderPos.setPrice(price);
         orderPos.setGoodName(name);
 
-        order.getOrderPoses().add(orderPos);
-        product.getOrderPoss().add(orderPos);
+       /* order.getOrderPoses().add(orderPos);
+        product.getOrderPoss().add(orderPos);*/
         orderPos = orderPosRepository.save(orderPos);
 
         ChangeController changeController = new ChangeController();

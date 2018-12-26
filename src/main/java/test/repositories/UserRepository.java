@@ -17,10 +17,7 @@ public interface UserRepository extends PagingAndSortingRepository<User, Integer
     @Query("SELECT COUNT(entity)>0 FROM User entity WHERE entity.id = :#{#_entity.id}")
     boolean isIdExists(@Param("_entity") User _entity);
 
-   /* @Query("SELECT entity FROM User entity WHERE entity.Username = :#{#_userName}")
-    List<User> getUserNames(@Param("_userName") String _Username);*/
-
-    @Modifying
+   @Modifying
     @Transactional
     @Query("DELETE FROM User entity WHERE entity.id = :#{#_id}")
     void delete(@Param("_id") Optional<User> _id);

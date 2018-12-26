@@ -22,11 +22,11 @@ public class OrderPos {
     @Column(name = "ORDERPOS_GOODNAME")
     private String goodName;
 
-    @ManyToOne(targetEntity = Order.class)
+    @ManyToOne(fetch = FetchType.EAGER, cascade = {CascadeType.MERGE, CascadeType.REFRESH})
     @JoinColumn (name = "ORDER_ID", nullable = false)
     private Order order;
 
-    @ManyToOne(targetEntity = Product.class)
+    @ManyToOne(fetch = FetchType.EAGER, cascade = {CascadeType.MERGE, CascadeType.REFRESH})
     @JoinColumn (name = "PRODUCT_ID", nullable = false)
     private Product product;
 

@@ -1,7 +1,6 @@
 package test.entity;
 
 import javax.persistence.*;
-import java.util.Set;
 
 import static javax.persistence.GenerationType.IDENTITY;
 
@@ -21,20 +20,20 @@ public class Order {
     @Column(name = "ORDER_REMARK", length = 1000)
     private String remark;
 
-    @ManyToOne(targetEntity = User.class)
+    @ManyToOne(fetch = FetchType.EAGER, cascade = {CascadeType.MERGE, CascadeType.REFRESH})
     @JoinColumn (name = "USER_ID", nullable = false)
     private User user;
 
-    @ManyToOne(targetEntity = IsuePoint.class)
+    @ManyToOne(fetch = FetchType.EAGER, cascade = {CascadeType.MERGE, CascadeType.REFRESH})
     @JoinColumn (name = "ISUEPOINT_ID", nullable = false)
     private IsuePoint isuePoint;
 
-    @OneToMany(mappedBy = "order", cascade = CascadeType.ALL)
+    /*@OneToMany(mappedBy = "order", cascade = CascadeType.ALL)
     private Set<OrderPos> orderPoses;
 
     public Set<OrderPos> getOrderPoses() {
         return orderPoses;
-    }
+    }*/
 
    /* public User getUser() {
         return user;
@@ -76,7 +75,7 @@ public class Order {
         this.remark = remark;
     }
 
-    public void setOrderPoses(Set<OrderPos> orderPoses) {
+    /*public void setOrderPoses(Set<OrderPos> orderPoses) {
         this.orderPoses = orderPoses;
-    }
+    }*/
 }

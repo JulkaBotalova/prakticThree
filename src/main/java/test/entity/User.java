@@ -1,7 +1,6 @@
 package test.entity;
 
 import javax.persistence.*;
-import java.util.Set;
 
 import static javax.persistence.GenerationType.IDENTITY;
 
@@ -22,7 +21,7 @@ public class User {
     private String userphone;
 
 
-    @OneToMany(mappedBy = "user", cascade = CascadeType.ALL)
+   /* @OneToMany(mappedBy = "user", cascade = CascadeType.ALL)
     private Set<Order> orderUs;
 
     public Set<Order> getOrderUs() {
@@ -32,7 +31,7 @@ public class User {
     public void setOrderUs(Set<Order> orderUs) {
         this.orderUs = orderUs;
     }
-
+*/
     public Integer getId() {
         return id;
     }

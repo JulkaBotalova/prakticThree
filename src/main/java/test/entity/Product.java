@@ -1,7 +1,6 @@
 package test.entity;
 
 import javax.persistence.*;
-
 import java.util.Set;
 
 import static javax.persistence.GenerationType.IDENTITY;
@@ -14,7 +13,6 @@ public class Product {
     @Id
     @Column(name = "PRODUCT_ID", nullable = false)
     @GeneratedValue(strategy = IDENTITY)
-
     private Integer id;
 
     @Column(name = "PRODUCT_NAME", length = 255)
@@ -62,9 +60,6 @@ public class Product {
         this.orderPoss = orderPoss;
     }
 
-  /*  public ProductGroup getProductGroup() {
-        return productGroup;
-    }*/
 
     public void setProductGroup(ProductGroup productGroup) {
         this.productGroup = productGroup;

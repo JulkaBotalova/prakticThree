@@ -57,18 +57,18 @@ public class RControllerOrder {
         User user = maybeUser
                 .orElseThrow(() -> new ExpressionException(String.valueOf(idUser)));
 
-        isuePoint.setOrder(new HashSet<Order>());
+       /* isuePoint.setOrder(new HashSet<Order>());
         user.setOrderUs(new HashSet<Order>());
-
+*/
         order.setIsuePoint(isuePoint);
         order.setUser(user);
 
         order.setPhone(phone);
         order.setRemark(remark);
 
-        isuePoint.getOrder().add(order);
+      /*  isuePoint.getOrder().add(order);
         user.getOrderUs().add(order);
-
+*/
         order = orderRepository.save(order);
 
         ChangeController changeController = new ChangeController();

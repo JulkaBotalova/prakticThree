@@ -50,11 +50,11 @@ public class RControllerProduct {
         ProductGroup  productGroup = maybeProductGroup
                 .orElseThrow(() -> new ExpressionException(String.valueOf(idProductGroup)));
 
-        productGroup.setProducts(new HashSet<Product>());
+      //  productGroup.setProducts(new HashSet<Product>());
         product.setProductGroup(productGroup);
         product.setProductName(name);
         product.setProductPrice(price);
-        productGroup.getProducts().add(product);
+      //  productGroup.getProducts().add(product);
         product = productRepository.save(product);
 
         ChangeController changeController = new ChangeController();
